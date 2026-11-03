@@ -8,8 +8,6 @@ Tableau에서 서울 전체 지표를 확인하고 자치구별 변화와 보건
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
 
-BOAZ 27기 시각화 미니 프로젝트, 데이터 청진기 3인 팀. 팀원 김지우, 신민아, 진서현. 개인별 담당은 확인 후 기록 예정.
-
 ## Data
 
 | Source | Scope | Role |
@@ -77,7 +75,11 @@ flowchart LR
 
 발표자료 14쪽의 전체 화면. 세 과목 합계와 비중, 지도, 과목별 증감률을 한 화면에 배치. 과목별 카드의 표시 차이는 아래 문서에 기록.
 
-[공개 대시보드](https://public.tableau.com/shared/97SJWNZ7N) · [자치구 상세 화면과 계산 필드](dashboard/README.md)
+![발표자료의 서대문구 상세 화면](dashboard/district.png)
+
+발표자료 15쪽의 자치구 상세 화면. 선택한 구의 의원 수 추이, 과목별 변화와 소아·보건기관 위치를 확인할 수 있음. 인구 대비 카드의 검증 차이는 대시보드 문서 참고.
+
+[Tableau Public 대시보드](https://public.tableau.com/app/profile/.40367489/viz/shared/97SJWNZ7N) · [계산 필드와 검증 기록](dashboard/README.md)
 
 ## Limitations
 
