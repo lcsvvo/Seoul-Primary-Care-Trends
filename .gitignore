@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+.venv/
+.ipynb_checkpoints/
+.env
+.env.*
+*.key
+*.pem
+data/raw/
+data/processed/
+*.twbx
+*.hyper
+*.xlsx
+*.zip
+results/EDA/tables/서울_소아의료체계_기관목록.csv
