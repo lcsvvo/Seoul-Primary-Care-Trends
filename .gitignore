@@ -13,3 +13,4 @@ data/processed/
 *.xlsx
 *.zip
 results/EDA/tables/서울_소아의료체계_기관목록.csv
+!dashboard/seoul_primary_care.twbx
